@@ -1,5 +1,3 @@
-# Chicago Crime Dataset
+# Cardiovascular Disease
 
-ADDY DADDY
-VIGGY STIGGY
-ARUSH VERMA
+Vignesh Venkat, Arush Verma & Adarsh Narayanan
